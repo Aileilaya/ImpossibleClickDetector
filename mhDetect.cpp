@@ -29,7 +29,6 @@ void __stdcall mhDetect::detect()
 	static bool isPlayerSet = false;
 	if (IsInGame()) {
 		if (false == isPlayerSet) {
-			AntiDebug();
 			for (int i = 0; i < 12; i++) {
 				selectInfo[i].player = jass::Player(i);
 			}
