@@ -11,4 +11,4 @@ Detect maphacks in Warcraft III 1.27<br>
 ![image](https://github.com/Duysi/ImpossibleClickDetector/blob/master/images/3.png)
 
 count 为1则99%是图
-![image](https://github.com/Duysi/ImpossibleClickDetector/blob/master/images/4.png)
+![image](https://github.com/Duysi/ImpossibleClickDetector/blob/master/images/4.jpg)
